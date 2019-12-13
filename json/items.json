@@ -6,16 +6,16 @@
         "link": "https://github.com/MrPanda1/YOLO-FormDataset"
 	},
     {
-        "name": "Underwater Robotics @ ASU (2017-2020)",
+        "name": "Underwater Robotics at ASU (2017-2020)",
         "description": "Every year, Underwater Robotics @ ASU (formerly known as NASA Space Grant Robotics) participates in  international competitions like RoboSub AUVSI and/or MATE ROV. These competitions require the development and creation of a fully underwater vehicle that is designed to complete various tasks.<br \\><br \\><b>2019-2020</b><br \\>I lead the development of all tasks involving computer vision. These tasks revolve around autonomously locating objects in the pool and are mostly object localization tasks. I am leveraging Tensorflow and Darknet to train multiple machine learning models to get the best object detection.<br \\><br \\><b>2017-2019</b><br \\>The competition these years were manned competitions. As a result, we needed a GUI for the pilot of the robot to see what was going on. I was in charge of the development of the GUI, and converting the raw data inputs into a usable format that the pilots could understand. I leveraged wxPython for the GUI and numpy for the data analysis.",
         "image": "images/asur.jpg",
         "link": "https://github.com/Underwater-Robotics-Arizona-State"
 	},
     {
-        "name": "Project 3",
-        "description": "This is where you put description about your projects.",
+        "name": "AWS Technical Intern",
+        "description": "AWS Professional Services helps companies migrate from their current data solutions to AWS. I helped develop an internal application to take the data from already-completed migrations and house them in a manner that allows non-technical people to view and edit this data. We designed and implemented the entire tech stack for this application, from the backend database to house this data to the frontend user interface that customers can use to see the data in a readable format.",
         "image": "images/image1.jpg",
-        "link": "https://google.com"
+        "link": "https://aws.amazon.com/professional-services/"
 	},
     {
         "name": "Project 4",
