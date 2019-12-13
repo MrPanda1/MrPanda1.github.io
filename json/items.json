@@ -20,19 +20,7 @@
     {
         "name": "Project 4",
         "description": "This is where you put description about your projects.",
-        "image": "images/image2.jpg",
-        "link": "https://google.com"
-	},
-    {
-        "name": "Project 5",
-        "description": "This is where you put description about your projects.",
-        "image": "images/image3.jpg",
-        "link": "https://google.com"
-	},
-    {
-        "name": "Project 6",
-        "description": "This is where you put description about your projects.",
-        "image": "images/image3.jpg",
+        "image": "images/stock.jpg",
         "link": "https://google.com"
 	}
 ]
