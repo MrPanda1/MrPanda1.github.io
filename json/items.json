@@ -1,26 +1,26 @@
 [
     {
-        "name": "Digitize Paper Forms",
+        "name": "Digitize Paper Forms (2019-2020)",
         "description": "Paper forms are the enemy of productivity. They exist today as an unnecessary intermediate between humans and machines only to be manually inputted into databases. Our goal is to develop a machine learning model for converting any paper form into an electronic interface capable of capturing user input for fields unique to the original paper form.",
         "image": "images/digitize_paper_forms.jpg",
         "link": "https://github.com/MrPanda1/YOLO-FormDataset"
 	},
     {
-        "name": "Project 2",
+        "name": "Underwater Robotics @ ASU (2017-2020)",
+        "description": "Every year, Underwater Robotics @ ASU (formerly known as NASA Space Grant Robotics) participates in  international competitions like RoboSub AUVSI and/or MATE ROV. These competitions require the development and creation of a fully underwater vehicle that is designed to complete various tasks.<br \\><br \\><b>2019-2020</b><br \\>I lead the development of all tasks involving computer vision. These tasks revolve around autonomously locating objects in the pool and are mostly object localization tasks. I am leveraging Tensorflow and Darknet to train multiple machine learning models to get the best object detection.<br \\><br \\><b>2017-2019</b><br \\>The competition these years were manned competitions. As a result, we needed a GUI for the pilot of the robot to see what was going on. I was in charge of the development of the GUI, and converting the raw data inputs into a usable format that the pilots could understand. I leveraged wxPython for the GUI and numpy for the data analysis.",
+        "image": "images/asur.jpg",
+        "link": "https://github.com/Underwater-Robotics-Arizona-State"
+	},
+    {
+        "name": "Project 3",
         "description": "This is where you put description about your projects.",
         "image": "images/image1.jpg",
         "link": "https://google.com"
 	},
     {
-        "name": "Project 3",
-        "description": "This is where you put description about your projects.",
-        "image": "images/image2.jpg",
-        "link": "https://google.com"
-	},
-    {
         "name": "Project 4",
         "description": "This is where you put description about your projects.",
-        "image": "images/image3.jpg",
+        "image": "images/image2.jpg",
         "link": "https://google.com"
 	},
     {
