@@ -14,7 +14,7 @@
     {
         "name": "AWS Technical Intern (2019)",
         "description": "AWS Professional Services helps companies migrate from their current data solutions to AWS. I helped develop an internal application to take the data from already-completed migrations and house them in a manner that allows non-technical people to view and edit this data. We designed and implemented the entire tech stack for this application, from the backend database to house this data to the frontend user interface that customers can use to see the data in a readable format.",
-        "image": "images/image1.jpg",
+        "image": "images/aws.jpg",
         "link": "https://aws.amazon.com/professional-services/"
 	},
     {
