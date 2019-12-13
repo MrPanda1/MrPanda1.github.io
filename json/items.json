@@ -1,7 +1,7 @@
 [
     {
         "name": "Digitize Paper Forms (2019-2020)",
-        "description": "Paper forms are the enemy of productivity. They exist today as an unnecessary intermediate between humans and machines only to be manually inputted into databases. Our goal is to develop a machine learning model for converting any paper form into an electronic interface capable of capturing user input for fields unique to the original paper form.",
+        "description": "Paper forms are the enemy of productivity. They exist today as an unnecessary intermediate between humans and machines only to be manually inputted into databases. I, with support from PayPal, am developing a machine learning model for converting any paper form into an electronic interface capable of capturing user input for fields unique to the original paper form.",
         "image": "images/digitize_paper_forms.jpg",
         "link": "https://github.com/MrPanda1/YOLO-FormDataset"
 	},
