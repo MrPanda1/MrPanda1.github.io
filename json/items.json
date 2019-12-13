@@ -22,5 +22,17 @@
         "description": "This is where you put description about your projects.",
         "image": "images/image3.jpg",
         "link": "https://google.com"
+	},
+    {
+        "name": "Project 5",
+        "description": "This is where you put description about your projects.",
+        "image": "images/image3.jpg",
+        "link": "https://google.com"
+	},
+    {
+        "name": "Project 6",
+        "description": "This is where you put description about your projects.",
+        "image": "images/image3.jpg",
+        "link": "https://google.com"
 	}
 ]
