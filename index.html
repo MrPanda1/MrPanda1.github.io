@@ -22,12 +22,30 @@
 
 <body style="background-color: #a0a5a7">
     <div>
+
+        <div id="aboutMeModal" class="center-align">
+            <div id="aboutMeModal-content" class="card hoverable">
+                <span class="card-title grey-text text-darken-4">
+                    About Me
+                    <a id="closeModal" class="black-text" target="_blank" style="cursor: pointer">
+                        <i class="material-icons right">close</i>
+                    </a>
+                </span>
+                <p>This section is still in progress... Please use the "Contact Me" button to reach out to me with any inquiries!</p>
+            </div>
+        </div>
+
         <div class="row">
             <div id="profileColumn" class="col s12 l4 center pinned">
                 <img id="profileImage" src="./images/profile.jpg" class="z-depth-3 circle responsive-img" />
                 
                 <h2 id="heroName" class="center-align">Pratik Panda</h2>
                 <h4 id="description" class="center-align">Computer Science</h4>
+                <div class="links waves-effect">
+                    <a id="aboutMeButton" class="black-text valign-wrapper" target="_blank">
+                        <i class="link_icon mdi mdi-information" style="color: black"></i>&nbsp;About Me
+                    </a>
+                </div>
 
                 <div id="socialLinkSection">
                     <section class="tab">

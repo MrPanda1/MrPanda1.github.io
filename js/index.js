@@ -4,6 +4,10 @@ var workRequest = new XMLHttpRequest();
 var link = document.getElementById("socialLinkContent");
 var linkRequest = new XMLHttpRequest();
 
+var aboutMeButton = document.getElementById("aboutMeButton");
+var aboutMeModal = document.getElementById("aboutMeModal")
+var closeModal = document.getElementById("closeModal");
+
 linkRequest.open("GET", "json/links.json", true);
 linkRequest.onreadystatechange = function () {
     if (linkRequest.readyState === 4) {
@@ -33,3 +37,10 @@ workRequest.onreadystatechange = function () {
     }
 };
 workRequest.send(null);
+
+aboutMeButton.onclick = function() {
+    aboutMeModal.style.display = "block";
+}
+closeModal.onclick = function() {
+    aboutMeModal.style.display = "none";
+}
