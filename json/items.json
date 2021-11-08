@@ -1,5 +1,11 @@
 [
     {
+        "name": "Intel - Software Application Development Engineer (2021-)",
+        "description": "IN PROGRESS",
+        "image": "https://www.intel.com/content/dam/www/us/en/careers/images/careers/software-development-engineer-2021.jpg",
+        "link": "https://www.intel.com/"
+    },
+    {
         "name": "Digitize Paper Forms (2019-2020)",
         "description": "Paper forms are the enemy of productivity. They exist today as an unnecessary intermediate between humans and machines only to be manually inputted into databases. I, with support from PayPal, am developing a machine learning model for converting any paper form into an electronic interface capable of capturing user input for fields unique to the original paper form.",
         "image": "images/digitize_paper_forms.jpg",
