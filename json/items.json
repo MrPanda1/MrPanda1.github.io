@@ -2,8 +2,14 @@
     {
         "name": "Intel - Software Application Development Engineer (2021-)",
         "description": "IN PROGRESS",
-        "image": "https://www.intel.com/content/dam/www/us/en/careers/images/careers/software-development-engineer-2021.jpg",
+        "image": "images/intel.svg",
         "link": "https://www.intel.com/"
+    },
+    {
+        "name": "ASU Prepatory Digital",
+        "description": "ASU Prep Digital wants to revolutionize online learning by creating a custom online learning platform to plug-and-play into industry standard Learning Management Systems (LMS). As a part of ASU Prep Digital, I led a team of 4 developers in building a proof-of-concept serverless application to allow for delivery of educational materials to K-12 students handling 50 users in a short span of 4 months.",
+        "image": "images/ASU_Prep_Digital.png",
+        "link": "https://www.asuprepdigital.org/"
     },
     {
         "name": "Digitize Paper Forms (2019-2020)",
