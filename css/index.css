@@ -2,6 +2,10 @@
     font-family: 'Saira Semi Condensed', sans-serif;
 }
 
+.body {
+    background: linear-gradient(to bottom right, rgba(160,165,167,1) 2%, rgba(73,73,73,1) 100%)
+}
+
 /* About Me Modal */
 
 #aboutMeModal {
