@@ -6,6 +6,19 @@
     background: linear-gradient(to bottom right, rgba(160,165,167,1) 2%, rgba(73,73,73,1) 100%)
 }
 
+#banner {
+    position: sticky;
+    top: 0;
+    left: 0;
+    background-color: #FFFF00;
+    width: 100%;
+    display: flex;
+    z-index: 1000;
+}
+#banner-content {
+    margin: 0 auto;
+}
+
 /* About Me Modal */
 
 #aboutMeModal {
