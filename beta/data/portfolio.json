@@ -1,0 +1,125 @@
+[
+    {
+        "name": "Intel Corporation",
+        "jobTitle": "Software Application Development Engineer",
+        "years": "2021-", 
+        "description": "At Intel, I work within Supply Chain on Master Production Scheduling (MPS) software. Primarily, I work on the reporting capabilities for OneMPS (a long-range supply chain planning solution) and FSCO (an immediate-term factory scheduling solution).",
+        "image": "images/intel.webp",
+        "altText": "Intel Corporation Logo",
+        "link": "https://www.intel.com/",
+        "technologies": [
+            {
+                "image": "images/angular.svg",
+                "altText": "Angular.JS"
+            },
+            {
+                "image": "images/dotnet.png",
+                "altText": ".NET"
+            },
+            {
+                "image": "images/sql-server.svg",
+                "altText": "SQL Server"
+            }
+        ]
+    },
+    {
+        "name": "ASU Prepatory Digital",
+        "jobTitle": "Software Application Development Engineer",
+        "years": "2020-2021", 
+        "description": "ASU Prep Digital wants to revolutionize online learning by creating a custom online learning platform to plug-and-play into industry standard Learning Management Systems (LMS). As a part of ASU Prep Digital, I led a team of 4 developers in building a proof-of-concept serverless application to allow for delivery of educational materials to K-12 students handling 50 users in a short span of 4 months.",
+        "image": "images/asuprepdigital.png",
+        "altText": "ASU Prep Digital Logo",
+        "link": "https://www.asuprepdigital.org/",
+        "technologies": [
+            {
+                "image": "images/vue.png",
+                "altText": "Vue.JS"
+            },
+            {
+                "image": "images/aws-lambda.png",
+                "altText": "AWS Lambda"
+            },
+            {
+                "image": "images/aws-s3.png",
+                "altText": "AWS S3"
+            },
+            {
+                "image": "images/aws-dynamodb.png",
+                "altText": "AWS DynamoDB"
+            }
+        ]
+    },
+    {
+        "name": "Digitize Paper Forms (2019-2020)",
+        "jobTitle": "Software Developer",
+        "years": "2019-2020", 
+        "description": "Paper forms are the enemy of productivity. They exist today as an unnecessary intermediate between humans and machines only to be manually inputted into databases. I, with support from PayPal, am developing a machine learning model for converting any paper form into an electronic interface capable of capturing user input for fields unique to the original paper form.",
+        "image": "images/opportunityhack.jpg",
+        "altText": "Opporunity Hack Logo",
+        "link": "https://github.com/MrPanda1/YOLO-FormDataset",
+        "technologies": [
+            {
+                "image": "images/darknet.jpg",
+                "altText": "Darknet"
+            },
+            {
+                "image": "images/jetson.png",
+                "altText": "Nvidia Jetson"
+            }
+        ]
+	},
+    {
+        "name": "Underwater Robotics at ASU (2017-2021)",
+        "jobTitle": "Software Developer, Sofware Lead, Treasurer, Advisor",
+        "years": "2017-2021", 
+        "description": "Every year, Underwater Robotics @ ASU (formerly known as NASA Space Grant Robotics) participates in  international competitions like RoboSub AUVSI and/or MATE ROV. These competitions require the development and creation of a fully underwater vehicle that is designed to complete various tasks.<br \\><br \\><b>2021-Present</b><br \\>After graduating from ASU, I transitioned into an advisor role to assist the next generation of students participate in the robotics club.<br \\><br \\><b>2019-2020</b><br \\>I lead the development of all tasks involving computer vision. These tasks revolve around autonomously locating objects in the pool and are mostly object localization tasks. I am leveraging Tensorflow and Darknet to train multiple machine learning models to get the best object detection.<br \\><br \\><b>2017-2019</b><br \\>The competition these years were manned competitions. As a result, we needed a GUI for the pilot of the robot to see what was going on. I was in charge of the development of the GUI, and converting the raw data inputs into a usable format that the pilots could understand. I leveraged wxPython for the GUI and numpy for the data analysis.",
+        "image": "images/asur.jpg",
+        "altText": "ASUR Club Logo, Picture of Underwater Robot, and Picture of Pratik Panda competing",
+        "link": "https://github.com/Underwater-Robotics-Arizona-State",
+        "technologies": [
+            {
+                "image": "images/python.png",
+                "altText": "Python"
+            },
+            {
+                "image": "images/opencv.png",
+                "altText": "OpenCV"
+            },
+            {
+                "image": "images/cpp.png",
+                "altText": "C++"
+            },
+            {
+                "image": "images/tensorflow.png",
+                "altText": "Tensorflow"
+            }
+        ]
+	},
+    {
+        "name": "Amazon Web Services",
+        "jobTitle": "Technical Intern",
+        "years": "2019", 
+        "description": "AWS Professional Services helps companies migrate from their current data solutions to AWS. I helped develop an internal application to take the data from already-completed migrations and house them in a manner that allows non-technical people to view and edit this data. We designed and implemented the entire tech stack for this application, from the backend database to house this data to the frontend user interface that customers can use to see the data in a readable format.",
+        "image": "images/aws.jpg",
+        "altText": "Amazon Web Services - Professional Services Logo",
+        "link": "https://aws.amazon.com/professional-services/",
+        "technologies": [
+            {
+                "image": "images/react.png",
+                "altText": "React.JS"
+            },
+            {
+                "image": "images/aws-lambda.png",
+                "altText": "AWS Lambda"
+            },
+            {
+                "image": "images/aws-s3.png",
+                "altText": "AWS S3"
+            },
+            {
+                "image": "images/aws-dynamodb.png",
+                "altText": "AWS DynamoDB"
+            }
+        ]
+	}
+]

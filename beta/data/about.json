@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Chandler Lions Club",
+        "description": "In my free time, I volunteer with the <a href=\"https://e-clubhouse.org/sites/chandleraz/\">Chandler Lions Club</a>, helping to give back to the community I grew up in. Catch me taking free Santa Pictures in downtown Chandler, leading a costume parade of Chandler children for Halloween, or zooming around Snedigar Park in a golf cart providing snacks and drinks to the soccer and baseball children (and their parents, of course!). Additionally, I am the Leos Advisor/Liasion for the Hamilton High School Leos Club, helping our teenagers give back to their community.",
+        "image": "./images/lionsclub.png",
+        "altText": "Lions Club Logo",
+        "link": "https://e-clubhouse.org/sites/chandleraz/"
+    },
+    {
+        "name": "Devil Fish Robotics",
+        "description": "I am also a technical advisor for the <a href=\"https://devilfishrobotics.com/\">DevilFish Robotics</a> club at Arizona State University. This club builds semi- and fully- autonomous underwater vehicles to compete in international competitions like <a href=\"https://robosub.org/\">RoboSub</a> or <a href=\"https://materovcompetition.org/\">MATE</a>. For most of these students, this is their first foray into robotics, and their first experience into an application-based project. As someone who went through that same experience when I was in this club at ASU (under the name NASA Space Grant Robotics), I help guide these students so that they can be the most successful versions of themselves.",
+        "image": "./images/devilfish.png",
+        "altText": "Devil Fish Robotics Logo",
+        "link": "https://devilfishrobotics.com/"
+    }
+]
