@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>PC Podcast</title><description>&lt;![CDATA[&lt;p&gt;A podcast about all things technology-related. Join your co-hosts Trevor
+Ciha and Pratik Panda as they discuss the latest news in the tech space.
+Follow us on Social Media:
+  * &lt;a href="https://twitter.com/PandaCihaPod"&gt;Twitter: @PandaCihaPod&lt;/a&gt;
+  * &lt;a href="https://www.facebook.com/profile.php?id=61559209894602"&gt;Facebook: PandaCihaPodcast&lt;/a&gt;
+  * &lt;a href="https://www.instagram.com/pandacihapodcast/"&gt;Instagram: PandaCihaPodcast&lt;/a&gt;
+  * &lt;a href="https://www.twitch.tv/PandaCihaPodcast"&gt;Twitch: PandaCihaPodcast&lt;/a&gt;&lt;/p&gt;]]&gt;</description><language>en-us</language><link>https://pratikpanda.dev/pcpodcast</link><generator>Podcast RSS Generator (https://github.com/vpetersson/podcast-rss-generator)</generator><atom:link href="https://pratikpanda.dev/pcpodcast/podcast_feed.xml" rel="self" type="application/rss+xml" /><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:email>pandacihapodcast@gmail.com</itunes:email></itunes:owner><itunes:author>PC Podcast</itunes:author><itunes:summary>A podcast about all things technology-related. Join your co-hosts Trevor
+Ciha and Pratik Panda as they discuss the latest news in the tech space.
+Follow us on Social Media:
+  * [Twitter: @PandaCihaPod](https://twitter.com/PandaCihaPod)
+  * [Facebook: PandaCihaPodcast](https://www.facebook.com/profile.php?id=61559209894602)
+  * [Instagram: PandaCihaPodcast](https://www.instagram.com/pandacihapodcast/)
+  * [Twitch: PandaCihaPodcast](https://www.twitch.tv/PandaCihaPodcast)
+</itunes:summary><itunes:category text="Technology" /><itunes:image href="https://d2kkx3x6h05ugx.cloudfront.net/PC_Podcast_Logo.png" /><item><pubDate>Mon, 25 Mar 2024 07:00:00 -0000</pubDate><title>PC Podcast - Ep1</title><description>&lt;![CDATA[&lt;p&gt;This is the &lt;em&gt;first&lt;/em&gt; episode. Join us as we talk about the Apex Legends RCE exploit, Neuralink updates, Stardew Valley 1.6, Battlefront Classic, and Microsoft Copilot!&lt;/p&gt;]]&gt;</description><guid>https://d2kkx3x6h05ugx.cloudfront.net/PC+Podcast+-+Ep1.mp4</guid><enclosure url="https://d2kkx3x6h05ugx.cloudfront.net/PC+Podcast+-+Ep1.mp4" type="video/mp4" length="1075168375" /><itunes:explicit>no</itunes:explicit><itunes:duration>5468</itunes:duration><itunes:episode>1</itunes:episode><itunes:season>1</itunes:season><itunes:episodeType>full</itunes:episodeType><link>https://pratikpanda.dev/pcpodcast</link><itunes:image href="https://d2kkx3x6h05ugx.cloudfront.net/PC_Podcast_Logo.png" /></item></channel></rss>
