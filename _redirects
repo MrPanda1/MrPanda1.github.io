@@ -1,0 +1,2 @@
+# Redirect for Matrix Server
+/.well-known/matrix/* https://matrix.pratikpanda.dev/.well-known/matrix/:splat 200!
