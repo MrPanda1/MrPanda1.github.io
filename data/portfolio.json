@@ -1,8 +1,23 @@
 [
     {
+        "name": "GoDaddy",
+        "jobTitle": "Senior Software Developer",
+        "years": "2024-", 
+        "description": "At GoDaddy, I work on an internal workflow orchestration system to centralize data and workflows to allow teams to iterate faster and democratize data access across the company. I use TypeScript, Next.js, and DynamoDB.",
+        "image": "images/profile-background.jpg",
+        "altText": "GoDaddy Logo",
+        "link": "https://www.godaddy.com/",
+        "technologies": [
+            {
+                "image": "images/aws-dynamodb.png",
+                "altText": "AWS DynamoDB"
+            }
+        ]
+    },
+    {
         "name": "Intel Corporation",
         "jobTitle": "Software Application Development Engineer",
-        "years": "2021-", 
+        "years": "2021-2024", 
         "description": "At Intel, I work within Supply Chain on Master Production Scheduling (MPS) software. Primarily, I work on the reporting capabilities for OneMPS (a mid-range supply chain planning solution) and FSCO (an immediate-term factory scheduling solution).",
         "image": "images/intel.webp",
         "altText": "Intel Corporation Logo",
